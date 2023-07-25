@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Author: Nguyen Viet Hai
+# Date created: 25/07/2023
+# Last modified: 25/07/2023 
+
+echo 'hello world'
+
+exit 0
